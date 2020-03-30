@@ -1,0 +1,14 @@
+Supervised and Unsupervised learning go hand in hand. So can be called cocktail model
+Stratified sampling:  Sampled sample should infer population
+True clustering doesn't happen until we consider all the characteristics.
+Dendrogram: Tree structure
+
+
+
+
+
+
+
+
+TODO:
+Do test and train data for logistic regression
