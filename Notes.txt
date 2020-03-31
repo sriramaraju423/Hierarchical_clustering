@@ -1,14 +1,21 @@
-Supervised and Unsupervised learning go hand in hand. So can be called cocktail model
-Stratified sampling:  Sampled sample should infer population
-True clustering doesn't happen until we consider all the characteristics.
-Dendrogram: Tree structure
+Distance for binary data:
+Binary ecludean distance
+Simple matching coefficient
+Jaccard's coefficients.
 
+If the datapoints are equi-distance then it will take one but not two
 
+Coding:
+Load
+Normalize the data: either z or if we have categorial x-min/max-min etc.
+Find euclidean or any relevant distance
+do hclust
+Find k value and divide into groups
+Attach these groups with actual data
 
+Tips&tricks:
+Using dendogram, we can comment on what datapoints are clustered first. By checking the heights
+Clustering is not suited for larger datasets.
 
-
-
-
-
-TODO:
-Do test and train data for logistic regression
+Queries:
+Sir in regression, we can call it a best model based on accuracy. Do we have any such measure here sir? Or else how do we say our clustering is best when compared to others - Balance
